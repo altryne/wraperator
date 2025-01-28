@@ -4,7 +4,7 @@
 
 **Wraperator** is an all-in-one Electron-based wrapper around OpenAI's Operator tool, enriched with native desktop notifications and a Raycast extension for quick access and scheduling tasks. It also features a convenient menu bar icon on macOS showing active/unread conversations.
 
-![Wraperator Screenshot](assets/icon_active@2x.png)
+![](https://cln.sh/XlNyMwhs+)
 
 ---
 
