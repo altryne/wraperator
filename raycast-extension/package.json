@@ -1,0 +1,39 @@
+{
+  "name": "wraperator",
+  "title": "Wraperator",
+  "description": "Schedule tasks in Operator",
+  "icon": "icon_white.png",
+  "author": "altryne",
+  "categories": [
+    "Productivity"
+  ],
+  "license": "MIT",
+  "commands": [
+    {
+      "name": "schedule-task",
+      "title": "Schedule Operator Task",
+      "description": "Schedule a new task in Operator",
+      "mode": "view"
+    },
+    {
+      "name": "list-runs",
+      "title": "List Operator Runs",
+      "description": "List all recent Operator conversations",
+      "mode": "view"
+    }
+  ],
+  "dependencies": {
+    "@raycast/api": "^1.67.1",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@raycast/utils": "^1.4.8",
+    "@types/node": "^20.8.10",
+    "@types/react": "^18.2.27",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "build": "ray build -e dist",
+    "dev": "ray develop"
+  }
+}
