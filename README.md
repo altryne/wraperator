@@ -1,6 +1,10 @@
 # Wraperator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Wraperator** is an all-in-one Electron-based wrapper around OpenAI's Operator tool, enriched with native desktop notifications and a Raycast extension for quick access and scheduling tasks. It also features a convenient menu bar icon on macOS showing active/unread conversations.
+
+![Wraperator Screenshot](assets/icon_active@2x.png)
 
 ---
 
@@ -53,6 +57,7 @@
 
 ## Installation
 
+### Using npm
 1. **Clone this repository**:
 
    ```bash
@@ -168,6 +173,13 @@ We welcome contributions! Feel free to open issues or pull requests:
 ## License
 
 This project is available under the [MIT License](LICENSE). See the LICENSE file for details.
+
+---
+
+## Author
+Made with ❤️ by [@altryne](https://x.com/altryne).  
+- GitHub: [github.com/altryne](https://github.com/altryne)  
+- X (formerly Twitter): [x.com/altryne](https://x.com/altryne)
 
 ---
 
